@@ -1,4 +1,4 @@
-![image](https://github.com/mohammadfaizan76692/Deep-LearningCSE-641/assets/77170022/9e6e0a6d-b059-4d41-9be9-034fb68fb4d3)# Assignment1 (Scratch Implementing MULTI-LAYER PERCEPTRON )
+# Assignment1 (Scratch Implementing MULTI-LAYER PERCEPTRON )
 ![image](https://github.com/mohammadfaizan76692/Deep-LearningCSE-641/assets/77170022/e34e62bd-a636-43fb-9495-a281d3993705)
 
 ### Question 1 
