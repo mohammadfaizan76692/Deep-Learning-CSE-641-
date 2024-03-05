@@ -15,5 +15,11 @@
 
 ### Question 4: Do Question 2 and Question 3 Using Activation as Sigmoid and Compare Results with ReLu.
     
+___
+# Assignment2 (Implement Architecture Related to CNN (Convolutional Neural Networks) 
+### Question1: ResNet's Architecture
+    ![image](https://github.com/mohammadfaizan76692/Deep-LearningCSE-641/assets/77170022/58c397a0-81b5-4878-90b9-b4218c09f39a)
 
-
+    1) 
+    2) Creating this Resnet Block And using thing Blocks for Creating Architecture Consist 4 of these Blocks
+    3) 
