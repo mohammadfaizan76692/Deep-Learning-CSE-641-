@@ -18,7 +18,8 @@
 ___
 # Assignment2 (Implement Architecture Related to CNN (Convolutional Neural Networks) 
 ### Question1: ResNet's Architecture
-    ![image](https://github.com/mohammadfaizan76692/Deep-LearningCSE-641/assets/77170022/58c397a0-81b5-4878-90b9-b4218c09f39a)
+![image](https://github.com/mohammadfaizan76692/Deep-LearningCSE-641/assets/77170022/d5971792-12ae-482d-94fd-5618269aef30)
+
 
     1) 
     2) Creating this Resnet Block And using thing Blocks for Creating Architecture Consist 4 of these Blocks
